@@ -1,0 +1,9 @@
+node_modules/
+web/node_modules/
+__pycache__/
+*.pyc
+data/
+kernel_meta/
+*.log
+frontend-dist/
+.pytest_cache/
